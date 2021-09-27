@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Tesseract/static/css/main.d0c0edfb.chunk.css",
-    "main.js": "/Tesseract/static/js/main.05aefa69.chunk.js",
-    "main.js.map": "/Tesseract/static/js/main.05aefa69.chunk.js.map",
+    "main.js": "/Tesseract/static/js/main.fdca3f8d.chunk.js",
+    "main.js.map": "/Tesseract/static/js/main.fdca3f8d.chunk.js.map",
     "runtime-main.js": "/Tesseract/static/js/runtime-main.fe318444.js",
     "runtime-main.js.map": "/Tesseract/static/js/runtime-main.fe318444.js.map",
-    "static/js/2.6573a372.chunk.js": "/Tesseract/static/js/2.6573a372.chunk.js",
-    "static/js/2.6573a372.chunk.js.map": "/Tesseract/static/js/2.6573a372.chunk.js.map",
+    "static/js/2.5ef8e172.chunk.js": "/Tesseract/static/js/2.5ef8e172.chunk.js",
+    "static/js/2.5ef8e172.chunk.js.map": "/Tesseract/static/js/2.5ef8e172.chunk.js.map",
     "index.html": "/Tesseract/index.html",
     "static/css/main.d0c0edfb.chunk.css.map": "/Tesseract/static/css/main.d0c0edfb.chunk.css.map",
-    "static/js/2.6573a372.chunk.js.LICENSE.txt": "/Tesseract/static/js/2.6573a372.chunk.js.LICENSE.txt"
+    "static/js/2.5ef8e172.chunk.js.LICENSE.txt": "/Tesseract/static/js/2.5ef8e172.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fe318444.js",
-    "static/js/2.6573a372.chunk.js",
+    "static/js/2.5ef8e172.chunk.js",
     "static/css/main.d0c0edfb.chunk.css",
-    "static/js/main.05aefa69.chunk.js"
+    "static/js/main.fdca3f8d.chunk.js"
   ]
 }
